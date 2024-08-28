@@ -55,7 +55,7 @@ _This project was conducted using the following tools:_
      ![alt text](https://github.com/AlbertHender/Data4Hire/blob/main/Visuals/Highest%20paid%20jobs.png)
 
 - Q3. Senior Level roles tend to be compensated the most with mid-level roles being close behind. This is consistent across companies that are either Small, Medium, or Large
-      ![alt text](https://github.com/AlbertHender/Data4Hire/blob/main/Visuals/Average%20salary%20by%20company%20size.png)
+     ![alt text](https://github.com/AlbertHender/Data4Hire/blob/main/Visuals/Average%20salary%20by%20company%20size.png)
 
 -Q4. Over the last 4 years there's been a drastic increase in the number of senior level roles being hired with a slight decrease in mid-level roles. Both entry and executive roles have seen little change
     ![alt text](https://github.com/AlbertHender/Data4Hire/blob/main/Visuals/Number%20of%20roles.png)

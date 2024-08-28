@@ -59,11 +59,11 @@ _This project was conducted using the following tools:_
   that are either Small, Medium, or Large
 ![alt text](https://github.com/AlbertHender/Data4Hire/blob/main/Visuals/Average%20salary%20by%20company%20size.png)
 
--Q4. Over the last 4 years there's been a drastic increase in the number of senior level roles being hired with a slight decrease in mid-level roles. 
+- Q4. Over the last 4 years there's been a drastic increase in the number of senior level roles being hired with a slight decrease in mid-level roles. 
   Both entry and executive roles have seen little change
 ![alt text](https://github.com/AlbertHender/Data4Hire/blob/main/Visuals/Number%20of%20roles.png)
 
--Q5. 2021 saw a drastic decrease in the number of employees that worked in the same country as their company. This percentage saw another drastic change the 
+- Q5. 2021 saw a drastic decrease in the number of employees that worked in the same country as their company. This percentage saw another drastic change the 
   following year with a %10 increase and has remained around the %95 area the year after that.
   
 ![alt text](https://github.com/AlbertHender/Data4Hire/blob/main/Visuals/Remote%20employees.png)

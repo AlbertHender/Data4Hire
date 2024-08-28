@@ -65,7 +65,6 @@ _This project was conducted using the following tools:_
 
 - Q5. 2021 saw a drastic decrease in the number of employees that worked in the same country as their company. This percentage saw another drastic change the 
   following year with a %10 increase and has remained around the %95 area the year after that.
-  
 ![alt text](https://github.com/AlbertHender/Data4Hire/blob/main/Visuals/Remote%20employees.png)
 
 ---

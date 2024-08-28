@@ -77,15 +77,19 @@ _This project was conducted using the following tools:_
 ### **Conclusion**
 - 1. What countries tend to have the highest salaries in the past 4 years
       The United States and Canda
+
      
 - 2. What jobs are typically paid the most
      There was no consistent job title that paid more than others
+
      
 - 3. What level of experience is compensated the most
      Senior level roles with mid level being close behind
+
      
 - 4. How have the number of roles being hired changed over the years
      Large increase in Senior level roles followed by a decrease in mid level roles. Entry level and executive levels saw little change
+
      
 - 5. On averge what percentage of remote employees work in the same country as their company
      Around %95 as of 2023

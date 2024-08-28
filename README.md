@@ -48,7 +48,8 @@ _This project was conducted using the following tools:_
 ---
 
 ### **8. Results**
-- Q1. Excluding the one year spikes, the United States and Canada on average have the highest salaries in recent years
+- Q1. Excluding the one year spikes, the United States and Canada on average have the highest salaries in
+  recent years
 ![alt text](https://github.com/AlbertHender/Data4Hire/blob/main/Visuals/11%20highest.png)
   
 - Q2. No consistent pattern between job title and salary was found

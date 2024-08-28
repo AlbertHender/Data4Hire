@@ -49,16 +49,16 @@ _This project was conducted using the following tools:_
 
 ### **8. Results**
 - Q1. Excluding the one year spikes, the United States and Canada on average have the highest salaries in recent years
-      [!alt text](https://github.com/AlbertHender/Data4Hire/blob/main/Visuals/11%20highest.png "highest")
+      ![alt text](https://github.com/AlbertHender/Data4Hire/blob/main/Visuals/11%20highest.png "highest")
   
 - Q2. No consistent pattern between job title and salary was found
-     [!alt text](https://github.com/AlbertHender/Data4Hire/blob/main/Visuals/Highest%20paid%20jobs.png)
+     ![alt text](https://github.com/AlbertHender/Data4Hire/blob/main/Visuals/Highest%20paid%20jobs.png)
 
 - Q3. Senior Level roles tend to be compensated the most with mid-level roles being close behind. This is consistent across companies that are either Small, Medium, or Large
-      [!alt text](https://github.com/AlbertHender/Data4Hire/blob/main/Visuals/Average%20salary%20by%20company%20size.png)
+      ![alt text](https://github.com/AlbertHender/Data4Hire/blob/main/Visuals/Average%20salary%20by%20company%20size.png)
 
 -Q4. Over the last 4 years there's been a drastic increase in the number of senior level roles being hired with a slight decrease in mid-level roles. Both entry and executive roles have seen little change
-    [!alt text](https://github.com/AlbertHender/Data4Hire/blob/main/Visuals/Number%20of%20roles.png)
+    ![alt text](https://github.com/AlbertHender/Data4Hire/blob/main/Visuals/Number%20of%20roles.png)
 
 -Q5. 2021 saw a drastic decrease in the number of employees that worked in the same country as their company. This percentage saw another drastic change the following year with a %10 increase and has remained around the %95 area the year after that.
 ---

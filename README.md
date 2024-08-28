@@ -5,24 +5,24 @@
 2. [Data Source]
 3. [Questions]
 4. [Approach]
-7. [Tools & Technologies]
-8. [Results]
-10. [Conclusion]
+5. [Tools & Technologies]
+6. [Results]
+7. [Conclusion]
 
 ---
 
-### **1. Project Overview**
+### **Project Overview**
 _This analysis aims to take a look into the Data Science/Machine Learning job market in recent years and uncover key insights into the current state of the fields at the moment. Through this analysis I uncovered insightful information on the current state of the data-field job market_
 
 ---
 
-### **2. Data Source**
+### **Data Source**
 - **Source of data:** https://www.kaggle.com/datasets/henryshan/2023-data-scientists-salary
 - **Scope of data:** Covers 78 countries and 93 job  titles with over 3700 entries
 
 ---
 
-### **3. Questions**
+### **Questions**
 _This project explores several key questions, including:_
 - 1. What countries tend to have the highest salaries in the past 4 years
 - 2. What jobs are typically paid the most
@@ -31,7 +31,7 @@ _This project explores several key questions, including:_
 - 5. On averge what percentage of remote employees work in the same country as their company
 ---
 
-### **4. Approach**
+### **Approach**
 - Data uploaded to microsoft sql database
 - Query said data and import it to excel worksheet
 - Create visualizations using excel
@@ -40,14 +40,14 @@ _This project explores several key questions, including:_
 ---
 
 
-### **7. Tools & Technologies**
+### **Tools & Technologies**
 _This project was conducted using the following tools:_
 - **Languages:** SQL 
 - **Visualization Tools:** Excel
 
 ---
 
-### **8. Results**
+### **Results**
 - Q1. Excluding the one year spikes, the United States and Canada on average have the highest salaries in
   recent years
   
@@ -74,7 +74,7 @@ _This project was conducted using the following tools:_
 
 ---
 
-### **10. Conclusion**
+### **Conclusion**
 - 1. What countries tend to have the highest salaries in the past 4 years
       The United States and Canda
      
